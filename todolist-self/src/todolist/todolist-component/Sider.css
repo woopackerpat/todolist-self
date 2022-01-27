@@ -1,12 +1,13 @@
 
 
 .sider-container {
-    background-color: lightcoral;
+    background-color: rgb;
     display: flex;
     flex-direction: column;
     flex: 0 0 215px;
     width: 215px;
-    
+    justify-content: space-between;
+    /* background-color: rgb(246, 247, 247); */
 }
 
 .sider-container ul {
@@ -15,6 +16,7 @@
     height: calc(100vh - 215px - 150px);
     background-color: white;
     padding: 0 0 0 0;
+    min-height: 250px;
 
 
 }

@@ -4,7 +4,7 @@ import Content from './Content';
 import './Main.css'
 
 function Main() {
-  return <div class = 'main-container'>
+  return <div className = 'main-container'>
       <Sider/>
       <Content/>
   </div>;
