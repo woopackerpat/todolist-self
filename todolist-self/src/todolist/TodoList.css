@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    width: 100vw;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    
+   
+}

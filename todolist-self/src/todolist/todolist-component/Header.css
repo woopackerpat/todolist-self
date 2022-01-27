@@ -1,0 +1,41 @@
+
+
+.header-container {
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.logo-container {
+    background-color: lightcyan;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 0 0 215px;
+    
+    
+}
+
+.menu-container {
+    background-color: lightpink;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-basis: calc(100%-230px -200px); */
+
+    
+}
+
+.profile-container {
+    background-color: lightskyblue;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 0 0 200px
+    
+    
+}
